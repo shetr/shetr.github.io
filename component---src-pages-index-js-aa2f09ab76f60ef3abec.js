@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshetr=self.webpackChunkshetr||[]).push([[678],{558:function(e,t,l){l.r(t);var s=l(294);t.default=function(){return s.createElement("main",null,s.createElement("title",null,"Home Page"),s.createElement("h1",null,"Shetr's site about his projects"),s.createElement("p",null,"This site will be used to describe some of my personal projects."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-aa2f09ab76f60ef3abec.js.map
