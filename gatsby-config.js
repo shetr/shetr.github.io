@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.shetr.github.io`,
+    siteUrl: `https://shetr.github.io`,
   },
   plugins: [],
 }
